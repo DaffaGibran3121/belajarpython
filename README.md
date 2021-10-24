@@ -1,1 +1,1 @@
-# belajarpython
+# LATIHAN 2
